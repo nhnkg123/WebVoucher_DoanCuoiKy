@@ -1,6 +1,6 @@
 # Phát triển phần mềm mã nguồn mở (Laravel) - Website bán thiết bị
 
-![](<https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg>)
+![Alt text](z4768105228836_c2994b16cf913f11288f4521032559d5.jpg)
 
 
 
