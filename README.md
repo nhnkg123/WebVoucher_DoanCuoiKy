@@ -9,7 +9,7 @@
 | :-: | :--------: | --------------------- | --------------------- |
 |  1  | 20880263 | Nguyễn Hoàng Nam  |  Trang khách hàng  |
 |  2  | 20850201 | Bùi Lê Quốc Bảo   |   Thiết kế API  |
-|  3  | 21880092 | Hồ phan Nhân   |   Trang quản trị & đối tác  |
+|  3  | 21880092 | Hồ Phan Nhân   |   Trang quản trị & đối tác  |
 
 
 ## Yêu Cầu:
