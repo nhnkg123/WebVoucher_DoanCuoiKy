@@ -1,4 +1,4 @@
-# Đồ án môn học - Quản lý Voucher (client page)
+# Đồ án môn học - Quản lý Voucher (Trang khách hàng)
 
 ![Alt text](Voucher_logo.PNG)
 
@@ -12,7 +12,7 @@
 |  3  | 21880092 | Hồ Phan Nhân   |   Trang quản trị & đối tác  |
 
 
-## Yêu Cầu:
+## Yêu Cầu đồ án:
 
 - Xây dựng Voucher website bao gồm 3 trang: quản trị, đối tác và khách hàng<br/>
 
