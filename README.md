@@ -1,4 +1,4 @@
-# Đồ án môn học - Quản lý Voucher
+# Đồ án môn học - Quản lý Voucher (client page)
 
 ![Alt text](Voucher_logo.PNG)
 
