@@ -14,11 +14,11 @@
 
 ## Yêu Cầu:
 
-- Xây dựng website Voucher có kết nối db<br/>
+- Xây dựng Voucher website có kết nối db<br/>
 
 ## Database
 
-![img.png](imgReadme/img.png)
+![Alt text](Voucher_CSDL.PNG)
 
 
 ## Hướng dẫn cài đặt
