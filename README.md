@@ -14,7 +14,7 @@
 
 ## Yêu Cầu:
 
-- Xây dựng Voucher website có kết nối db<br/>
+- Xây dựng Voucher website bao gồm 3 trang: quản trị, đối tác và khách hàng<br/>
 
 ## Database
 
