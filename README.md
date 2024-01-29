@@ -29,7 +29,7 @@
 ```
 2. Truy cập: "http://localhost:5001/"
 ```
-## Demo qua một phần của website: (note: ấn link hoặc vào hình để đi đến video)
+## Demo qua một phần của website:
 
 https://www.youtube.com/watch?v=gOFhE8DfIxQ
 
